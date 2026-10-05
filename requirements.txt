@@ -1,0 +1,8 @@
+streamlit>=1.42
+requests
+pypdf
+sentence-transformers
+chromadb
+ddgs
+faster-whisper
+pyttsx3
